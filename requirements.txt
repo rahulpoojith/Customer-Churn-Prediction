@@ -1,0 +1,11 @@
+Flask==3.0.2  # Flask library
+matplotlib==3.8.2  # Matplotlib
+numpy==1.26.4  # NumPy
+pandas==2.2.0  # Pandas
+scikit-learn==1.4.0  # Machine learning library
+Jinja2==3.1.3  # Flask template engine
+Werkzeug==3.0.2  # Flask WSGI toolkit
+itsdangerous==2.1.2  # Secure data handling
+certifi==2024.2.2  # SSL certificate verification
+MarkupSafe==2.1.3  # Prevents injection attacks
+gunicorn==21.2.0  # WSGI server for Python apps
